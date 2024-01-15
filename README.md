@@ -7,7 +7,7 @@ git clone https://github.com/abdurohman-karim/password_sender.git
 ```
 
 ## Installation `Libraries`
-``` 
+``` sh
 pip install python-telegram-bot
 
 pip install pycryptodome
@@ -24,7 +24,7 @@ chat_id = '-1001500553277'
 ```
 Change [bot_token] to your bot token, and change chat_id to your channel chat_id [chat_id]
 
-## Convert .py file to .exe
+## Convert `.py` file to `.exe`
 ```
 pip install pyinstaller
 ```
