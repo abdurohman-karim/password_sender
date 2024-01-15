@@ -25,7 +25,7 @@ pip install pyinstaller
 ```
 ### And run 
 ```
-pyinstaller --onefile your_python_file.py
+pyinstaller --onefile --noconsole your_python_file.py
 ```
 It's save your_python_file.exe to dist/your_python_file.exe
 
