@@ -6,7 +6,7 @@ Send Chrome passwords to telegram channel
 git clone https://github.com/abdurohman-karim/password_sender.git
 ```
 
-## Installation Libraries
+## <span style="color: blue;">Installation Libraries</span>
 ``` 
 pip install python-telegram-bot
 
