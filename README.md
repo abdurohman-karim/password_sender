@@ -7,7 +7,7 @@ git clone https://github.com/abdurohman-karim/password_sender.git
 ```
 
 ## Installation Libraries
-``` python
+``` shell
 pip install python-telegram-bot
 
 pip install pycryptodome
