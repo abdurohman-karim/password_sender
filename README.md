@@ -1,5 +1,11 @@
-# password_sender
-Send Chrome passwords to telegram channel
+# Social Engineering Google Passwords stealer 
+
+## Disclaimer
+```
+#### We do not encourage anyone to hack and are not responsible for this code! ####
+---- All information in the code is being taught for protection! ----
+```
+A script that downloads and sends Google Chrome passwords by text file to Telegram Channel. 
 
 ## Installation
 ``` sh
