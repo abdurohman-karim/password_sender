@@ -1,4 +1,4 @@
-# Social Engineering Google Passwords stealer 
+# Social Engineering | Google Passwords stealer 
 
 ## Disclaimer
 ```
