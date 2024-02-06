@@ -86,6 +86,7 @@ async def main():
         cursor.close()
         db.close()
 
+        # Change BOT_TOKEN and CHAT_ID to your 
         bot_token = 'BOT_TOKEN'
         chat_id = 'CHAT_ID'
 
